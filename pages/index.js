@@ -8,7 +8,7 @@ export default function Home() {
       <Head>
       </Head>
       <main>
-        <p className="description">hi <code>pages/index.js</code>
+        <p className="description">hi
         </p>
       </main>
     </div>
