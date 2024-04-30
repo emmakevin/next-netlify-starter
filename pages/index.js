@@ -7,8 +7,7 @@ export default function Home() {
     <div className="container">
       <Head>
       </Head>
-      <main>
-<a href="https://freeimage.host/i/JgA9m7I"><img src="https://iili.io/JgA9m7I.md.png" alt="JgA9m7I.md.png" border="0"></a>
+      <main><a href="https://freeimage.host/i/JgA9m7I"><img src="https://iili.io/JgA9m7I.md.png" alt="JgA9m7I.md.png" border="0"></a>
       </main>
     </div>
   )
